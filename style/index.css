@@ -1,1 +1,6 @@
 /* Add CSS styling here */
+button {
+    margin: center;
+    color: red;
+    font-size: 100px;
+}
